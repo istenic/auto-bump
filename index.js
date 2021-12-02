@@ -15,7 +15,6 @@ client.on('message', msg => { // Message function
 	}
 });
 
-
 client.once("ready", () => {
 
 
