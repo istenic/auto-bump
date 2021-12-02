@@ -1,8 +1,8 @@
 
 const Discord = require('discord.js-selfbot');
 const cron = require('cron');
-const server_id = 748546687961661472
-const channel_id = 827014208657948693
+const server_id = 
+const channel_id = 
 const { Client } = require('discord.js');
 
 const client = new Discord.Client();
